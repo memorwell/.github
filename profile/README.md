@@ -5,21 +5,39 @@
 
 **Trasparenza nei servizi funebri.**
 
-Chi affronta un lutto decide in fretta, sotto pressione e quasi sempre senza
-termini di paragone. Memorwell esiste per riequilibrare quel momento: un modo
-trasparente di trovare e prenotare un'agenzia funebre, con prezzi chiari prima
-della firma. Arriverà a Roma nel 2027.
+In Italia un funerale si organizza in 24–72 ore, sotto shock, quasi sempre senza
+termini di paragone: i listini non sono pubblicati, il confronto tra agenzie è
+in pratica impossibile e servizi comparabili possono costare il triplo da
+un'agenzia all'altra. Memorwell esiste per riequilibrare quel momento.
 
-Prima del prodotto, i dati. L'**[Osservatorio Memorwell](https://memorwell.it)**
-è già online: intervalli di prezzo dei servizi funebri a Roma — con fonti,
-metodologia dichiarata e invito alle correzioni — più guide pratiche sulla
-burocrazia del lutto. Il dataset è aperto
-([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it),
-attribuzione "Osservatorio Memorwell").
+## Cosa costruiamo
 
-Le regole che ci diamo, in breve: solo dati aggregati, mai nomi senza consenso;
-ogni numero con fonte, data e intervallo; registro informativo, zero marketing;
-qualità prima della quantità.
+Un **marketplace verticale per i servizi funebri**: una famiglia trova le
+agenzie della sua zona, confronta offerte standardizzate con prezzi chiari
+prima della firma, e prenota online. La piattaforma è un **tabellone neutro**:
+non consiglia un'agenzia rispetto a un'altra — rende le offerte comparabili e
+lascia la scelta a chi deve farla. Alle agenzie che lavorano bene restituisce
+un canale di acquisizione basato su qualità e prezzo, non su passaparola o
+procacciatori.
+
+Prima città: **Roma, nel 2027**. Architettura nazionale dal primo giorno.
+
+## Cosa c'è già
+
+- **[Osservatorio Memorwell](https://memorwell.it)** — intervalli di prezzo dei
+  servizi funebri a Roma, con fonti e metodologia dichiarate, più guide
+  pratiche sulla burocrazia del lutto. Dataset aperto
+  ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it),
+  attribuzione "Osservatorio Memorwell").
+- **Design system** — token e componenti condivisi da tutte le superfici del
+  progetto: l'interfaccia deve somigliare a una banca, non a un sito di viaggi.
+
+## I principi
+
+- **Neutralità.** Nessuna agenzia consigliata, mai. Comparabilità, non ranking a pagamento.
+- **Prezzi espliciti.** Il costo si vede prima, non dopo. Sempre intervalli e fonti nei dati pubblici.
+- **Zero pressione.** Niente urgenza artificiale, niente countdown, niente marketing sul lutto.
+- **Qualità prima della quantità.** Un errore fattuale costa più di un ritardo.
 
 ---
 
